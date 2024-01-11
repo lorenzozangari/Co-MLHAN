@@ -1,0 +1,7 @@
+torch==1.7.1+cu101
+numpy
+scikit-learn==1.0.2
+scipy
+pandas
+dgl==0.7.0
+matplotlib
